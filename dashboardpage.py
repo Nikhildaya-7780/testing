@@ -7,3 +7,6 @@ class DashboardPage(BasePage):
 
     def get_dashboard_header_text(self):
         return self.find_element(*self.DASHBOARD_HEADER).text
+
+    def edit:
+     return s
